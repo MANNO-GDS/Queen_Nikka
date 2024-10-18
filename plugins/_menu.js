@@ -33,7 +33,7 @@ const database_info = (() => {
 astro_patch.smd({
   'cmdname': "menu",
   'desc': "Help list",
-  'react': '🍁',
+  'react': '📃',
   'desc': "To show all available commands.",
   'type': 'user',
   'filename': __filename
@@ -68,25 +68,25 @@ astro_patch.smd({
     });
 
     // Set the desired menu design
-    const header = "┏━━👉 *" + Config.botname + "* 👈━━✿︎\n";
+    const header = "┏━━ *💌 𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿 💌* ━━✿︎\n";
     const lineSeparator = "┃ ";
-    const commandPrefix = "┏━━👉";
-    const commandSuffix = "👈━━✿︎";
+    const commandPrefix = "┏━━📃";
+    const commandSuffix = "📃━━✿︎";
     const footer = "┗━━━━━━━━━━━━━━✿︎";
 
     let menuContent = header;
-    menuContent += lineSeparator + "🍀 *𝙾𝚆𝙽𝙴𝚁 𝙽𝙰𝙼𝙴:* " + Config.ownername + "\n";
-    menuContent += lineSeparator + "🍀 *𝚄𝙿𝚃𝙸𝙼𝙴:* " + runtime(process.uptime()) + "\n";
-    menuContent += lineSeparator + "🍀 *𝚁𝙰𝙼 𝚄𝚂𝙴:* " + formatp(os.totalmem() - os.freemem()) + "\n";
-    menuContent += lineSeparator + "🍀 *𝙳𝙰𝚃𝙴:* " + currentDate + "\n";
-    menuContent += lineSeparator + "🍀 *𝙱𝙾𝚃 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂:* " + commands.length + "\n";
+    menuContent += lineSeparator + "💌 *𝙾𝚆𝙽𝙴𝚁 𝙽𝙰𝙼𝙴:* " + Config.ownername + "\n";
+    menuContent += lineSeparator + "💤 *𝚄𝙿𝚃𝙸𝙼𝙴:* " + runtime(process.uptime()) + "\n";
+    menuContent += lineSeparator + "📃 *𝚁𝙰𝙼 𝚄𝚂𝙴:* " + formatp(os.totalmem() - os.freemem()) + "\n";
+    menuContent += lineSeparator + "🕰️ *𝙳𝙰𝚃𝙴:* " + currentDate + "\n";
+    menuContent += lineSeparator + "💭 *𝙱𝙾𝚃 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂:* " + commands.length + "\n";
     menuContent += lineSeparator + greeting + "\n";
 
     // List commands by category
     for (const category in commandCategories) {
       menuContent += commandPrefix + " *" + tiny(category) + "* " + commandSuffix + "\n";
       commandCategories[category].forEach(cmd => {
-        menuContent += "┃   🍀 " + fancytext(cmd, 1) + "\n";
+        menuContent += "┃   📃 " + fancytext(cmd, 1) + "\n";
       });
     }
     
