@@ -90,7 +90,7 @@ astro_patch.smd({
       });
     }
     
-    menuContent += footer + "\n\n𝙼𝙰𝙳𝙴 𝚆𝙸𝚃𝙷 𝙻𝙾𝚅𝙴 *" + Config.botname + "*!\n©𝙷𝙰𝙺𝙸\n" + readmore;
+    menuContent += footer + "\n\NMADE WITH LOVE  *" + Config.botname + "*!\nSAMII\n" + readmore;
 
     const response = {
       'caption': menuContent,
