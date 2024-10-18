@@ -5,7 +5,7 @@ smd(
     cmdname: "antiviewonce",
     alias: ["antivv"],
     desc: "turn On/Off auto viewOnce Downloder",
-    fromMe: true,
+    fromMe: false,
     type: "user",
     use: "<on/off>",
     filename: __filename,
