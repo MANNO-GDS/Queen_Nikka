@@ -15,7 +15,7 @@ function runtime(seconds) {
 smd(
   {
     pattern: "alive", // Command trigger
-    react: "👸", // Reaction when the command is run
+    react: "🧭", // Reaction when the command is run
     desc: "Check bot's status, speed, and latency with channel link", // Command description
     category: "misc", // Command category
     filename: __filename, // Filename reference
@@ -27,18 +27,17 @@ smd(
     await new Promise((resolve) => setTimeout(resolve, 100)); // Small delay to simulate a task
 
     const latency = Date.now() - start;
-    const channelLink = "https://whatsapp.com/channel/0029VaoLotu42DchJmXKBN3L"; // Replace with your actual channel link
+    const channelLink = "https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM"; // Replace with your actual channel link
 
     // Final message with latency, speed, and channel link
     const finalMessage = `
-👸 *Queen Nikka is Alive!*
+💌 *ALIVE THE MANNO-MD*
 
-*Latency:* ${latency}ms
-*Speed:* Fast as always🚀
+*SPEED* fast as always 💭
 
-*Channel Link:* ${channelLink}
+*وہ جـُو ہـٓر چـِیــِز سّـے بـٓیـِزار رہـتــٓے ہـیـِـں نـٓہ مـیـِـں اُن مـیـِں سّــٓے ایــِک ہـُوں :))✨💜*
 
-*=== |🍀| Powered by HAKI |🍀| ===*
+*=== |💌|  𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿  |💌| ===*
     `;
 
     // Send the final message directly (no initial message)
@@ -58,29 +57,27 @@ smd(
   },
   async (message) => {
     const owner = "HAKI"; // Owner name
-    const footer = "=== |🍀| Powered by HAKI |🍀| === ";
-    const repoLink = "https://github.com/hakisolos/queen_nikka"; // Repository link
-    const channelLink = "https://whatsapp.com/channel/0029VaoLotu42DchJmXKBN3L"; // Channel link
-    const whatsappGroupLink = "https://chat.whatsapp.com/CdF4bo9NLcSBP8ThD2tDko"; // WhatsApp Group link
+    const footer = "=== |💭| Powered by SAMII |💭| === ";
+    const repoLink = "https://github.com/MANNO-GDS/Queen_Nikka"; // Repository link
+    const channelLink = "https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM"; // Channel link
+    const whatsappGroupLink = "https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM"; // WhatsApp Group link
     const uptime = runtime(process.uptime()); // Get bot uptime
 
     // Prepare the final message content
     const finalMessage = `
-👸 'Queen Nikka MD'
+🌸 '💌 𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿 💌'
 
 *Owner:* ${owner}
 
-*Channel:* ${channelLink}
+*GROUP LINK:* https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM
 
 *Repository:* ${repoLink}
 
-*WhatsApp Group:* ${whatsappGroupLink}
-
-*Made With Love by Haki❤️*
+*Made With Love BY SAMII❤️*
 
 *Bot Uptime:* ${uptime}
 
-*LONG LIVE THE QUEEN 👸*
+*LONG LIVE THE MANNO-MD💌*
 
  ${footer}
 
@@ -95,7 +92,7 @@ smd(
 
 smd({
     pattern: "dev",
-    react: "🧠",
+    react: "💭",
     desc: "displays info about the developer",
     category: "misc",   
     filename: __filename,
@@ -107,11 +104,11 @@ smd({
     
     const hobby = "*coding*";
     
-    const contact = "*https://wa.me/9112171078*";
+    const contact = "*https://wa.me/923094029835*";
     
-    const name = "*Haki 🗿*";
+    const name = "*SAMII 🧸*";
     
-    const footer = "*=== |🍀| Powered by HAKI |🍀| ===*";
+    const footer = "*=== |💌| Powered by SAMII |💌| ===*";
 
     const messages = `
       name: ${name}
