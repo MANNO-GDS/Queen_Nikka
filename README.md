@@ -13,7 +13,7 @@
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/hakisolos/Queen_Nikka/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/MANNO-GDS/Queen_Nikka/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. GET SESSION ID HERE
  
@@ -45,20 +45,23 @@
 
 
   
-  #### ```HAKI PROFILE VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/hakisolos/count.svg)
+  #### ```SAMMI PROFILE VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/MANNO-GDS/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 ## Support ME
 
-SUPPORT CHANNEL: <a href="[https://whatsapp.com/channel/0029VaqgxNt5q08c9XMItG3P)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT CHANNEL: <a href="[()"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
-### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/hakisolos)
+### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/MANNO-GDS/Queen_Nikka)
 <b>Version -> 1.0.0</b>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
   ## ENJOY!!!;
+
+### DEVOLPER
+<a href="https://github.com/MANNO-GDS/Queen_Nikka"><img src="https://i.imgur.com/pcv6wTh.jpeg" width="200" height="200" alt="Ash"/></a>
