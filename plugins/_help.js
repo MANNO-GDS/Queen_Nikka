@@ -34,7 +34,7 @@ smd(
 👉Oᴡɴᴇʀ - ${Config.ownername} 
 👉Nᴜᴍ - ${owner.split(",")[0]} 
 👉Mᴇᴍᴏ - ${formatp(os.totalmem() - os.freemem())} 
-      \n *ℚ𝕌𝔼𝔼ℕ✿︎ℕ𝕀𝕂𝕂𝔸*\n\n ${readmore} 
+      \n 💌 𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿 💌\n\n ${readmore} 
 ╭──👉 *ALL MENU* 👈 
 │☾︎👑☽︎ 𝕃𝕀𝕊𝕋
 │☾︎👑☽︎ ℂ𝔸𝕋𝔼𝔾𝕆ℝ𝕐
@@ -214,7 +214,7 @@ astro_patch.cmd(
     try {
       const { commands } = require("../lib");
       let listMessage = `\n  
-╭━━👉 * ${Config.botname} * 👈    
+╭━━🌸  ${Config.botname} 🌸    
 ┃ ☾👑︎☽︎ 𝚙𝚛𝚎𝚏𝚒𝚡: ${Config.HANDLERS}
 ┃ ☾👑︎☽︎ 𝚘𝚠𝚗𝚎𝚛: ${Config.ownername}
 ┃ ☾︎👑☽︎ Co𝚖𝚖𝚊𝚗𝚍𝚜: ${commands.length}
