@@ -1,15 +1,15 @@
 {
-    "name": "Queen_NIKKA",
+    "name": "THE-MANNO-MD",
     "description": "Simple WhatsApp Bot",
-    "logo": "https://telegra.ph/file/2c6582067485954d33200.jpg",
-    "keywords": ["HAKI", "NIKKA", "Queen_NIKKA"],
+    "logo": "https://i.imgur.com/pcv6wTh.jpeg",
+    "keywords": ["SAMMI", "MANNO", "THE-MANNO-MD"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_Nikka",
+        "value": "SAMII",
         "required": true
       },
   
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://telegra.ph/file/2c6582067485954d33200.jpg",
+        "value": "https://i.imgur.com/pcv6wTh.jpeg",
         "required": false
       },
   
@@ -35,12 +35,12 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://telegra.ph/file/2c6582067485954d33200.jpg"
+        "value": "https://i.imgur.com/pcv6wTh.jpeg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "Queen_NIKKA"
+        "value": "💌 𝙏𝙃𝙀-𝙈𝘼𝙉𝙉𝙊-𝙈𝘿 💌"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2348100835767"
+        "value": "923094029835"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -115,12 +115,12 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Queen_NIKKA",
+        "value": "SAMIII 🧸",
         "required": false
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "A L Y A",
+        "value": "S A M I",
         "required": false
       }
     },
