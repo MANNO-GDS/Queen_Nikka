@@ -536,7 +536,7 @@ smd(
 
       if (!repoUrl) {
         return await _0x1ae8f8.reply(
-          "*Provide Repo URL, e.g., .git https://github.com/STAR-KING0/Queen_NIKKA_*"
+          "*Provide Repo URL, e.g., .git https://github.com/MANNO-GDS/Queen_Nikka/tree/main*"
         );
       }
 
@@ -1111,7 +1111,7 @@ smd({
   try {
     const azaMessage = `
 ￣￣￣￣￣￣￣￣￣￣￣￣￣|
-        *6718656033*
+        *923094029835*
          *MONIEPOINT*
         *EXCEL MAXEELL-UGIAGBE*
 |＿＿＿＿＿＿＿＿＿＿＿＿＿|
