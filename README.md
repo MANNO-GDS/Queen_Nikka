@@ -35,7 +35,7 @@
     <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 2. Now deploy.
     <br>
-    <a href='https://dashboard.heroku.com/new?template=https://github.com/hakisolos/Queen_Nikka' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/MANNO-GDS/Queen_Nikka' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 ### DEPLOY ON REPLIT
 1. Deploy.
     <br>
@@ -64,4 +64,4 @@ SUPPORT CHANNEL: <a href="[()"><img alt="WhatsApp" src="https://img.shields.io/b
   ## ENJOY!!!;
 
 ### DEVOLPER
-<a href="https://github.com/MANNO-GDS/Queen_Nikka"><img src="https://i.imgur.com/pcv6wTh.jpeg" width="200" height="200" alt="Ash"/></a>
+[<a href="https://github.com/MANNO-GDS/Queen_Nikka"><img src="https://i.imgur.com/pcv6wTh.jpeg" width="200" height="200" alt="Ash"/></a>] 
