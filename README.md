@@ -58,3 +58,9 @@ SUPPORT CHANNEL: <a href="[()"><img alt="WhatsApp" src="https://img.shields.io/b
 
 ### DEVOLPER
 [<a href="https://github.com/MANNO-GDS/Queen_Nikka"><img src="https://i.imgur.com/pcv6wTh.jpeg" width="200" height="200" alt="Ash"/></a>] 
+
+
+Community and Support
+
+FOLLOW SAMII BLOUCH WHAtSAPP GROUP FOR MORE UPDATES
+[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/BNE0V8XpEZK0q4IgJ9jklM))
